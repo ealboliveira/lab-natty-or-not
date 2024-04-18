@@ -1,10 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -20,22 +14,42 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criando uma marca somente com IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Criação do nome: ChatGPT (https://chat.openai.com)
+Criação da logotipo: Leonardo AI (https://app.leonardo.ai)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisei no ChatGPT 3 modelos de nomes para marca de cerveja com tema de cavalheiro.
+Escolhei um nome, e pedi para gerar um prompt de comando para pesquisar no Leonardo AI para criar uma logotipo:
+    Prompt: Crie uma logo para a marca de cerveja "Lorde Lager" com um design que evoca um senso de nobreza e tradição, incorporando elementos de cavalheirismo e qualidade artesanal.
+    Instruções adicionais (opcional): Por favor, utilize cores que transmitam sofisticação e elegância. Sinta-se livre para incorporar símbolos ou ícones que representem o conceito de        "lorde" e elementos relacionados à produção de cerveja.
+
+A IA Leonardo gerou 4 imagens, ecolhei uma e consegui criar em poucos minutos uma marca de cerveja.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Aqui esta o promt de comando que utilizei no chatGPT:
+    Olá, faça 3 nomes de nome de uma marca de cerveja, com tema de cavalheiro.
+        ChatGPT
+    Claro, aqui estão três sugestões de nomes de marca de cerveja com tema de cavalheiro:
+        Cavaleiro Brew Co.
+        Lorde Lager
+        Gentlemen's Ale Society
+
+Aqui está a imagem que escolhei do Leonardo AI:
+<img src="https://cdn.leonardo.ai/users/58eb95a5-eebb-4889-9235-84f78fc6e2ea/generations/c732e63e-959a-4bc6-8b5c-79ce6ccfce31/Default_Crie_uma_logo_para_a_marca_de_cerveja_Lorde_Lager_com_3.jpg" alt="LORD BEER">
+
+A imagem não gerou o nome certo da marca em nenhum prompt de comando que fiz, porém, em poucos ajustes é capaz de editar a imagem, utilizando até mesmo IA's, por exemplo, no photoshop já tem a ferramenta de selecionar a parte que você quer arrumar e pedir para IA GENERATIVA dentro do Photoshop corrigir.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Assim como a internet transformou drasticamente a maneira como nos comunicamos, trabalhamos e acessamos informações, as Inteligências Artificiais estão moldando e aprimorando diversos aspectos da nossa sociedade.
+
+Assim como aconteceu com a internet, aqueles que souberem aproveitar as capacidades das Inteligências Artificiais de maneira eficaz terão uma vantagem competitiva significativa. A habilidade de entender, integrar e utilizar essas tecnologias emergentes será cada vez mais valorizada no mercado de trabalho e na sociedade em geral.
+
+Da mesma forma, como foi necessário aprender a navegar na internet e utilizar suas ferramentas para se manter relevante em um mundo digital, será essencial adquirir conhecimento e habilidades relacionadas às Inteligências Artificiais.
 ```
 
 ### Exemplos e Insigths
